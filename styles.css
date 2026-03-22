@@ -1,1 +1,5 @@
-
+.extra-spacing {
+  line-height: 2 !important;
+  letter-spacing: 0.08em !important;
+  word-spacing: 0.2em !important;
+}
